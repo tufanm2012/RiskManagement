@@ -9,7 +9,7 @@
     "@sap-cloud-sdk/http-client": "4.0.1",
     "@sap/cds": "8.8.2",
     "@sap/cds-dk": "8.8.1",
-    "@sap-cloud-sdk/resilience": "4.0.1",
+    "@sap-cloud-sdk/resilience": "4.0.2",
     "express": "^4",
     "@cap-js/hana": "^1",
     "@sap/xssec": "^4"
